@@ -16,7 +16,7 @@ Lírico=9000
 Dramático=14000
 Didáctico=25000
 
-total=0
+total=4
 genero=""
 preciounitario=0
 Descuento=0
